@@ -22,7 +22,6 @@ html, body {
   background-size: cover;
   background-position:center;
 }
-
 header {
   text-align: center;
 }
@@ -30,5 +29,3 @@ header {
 #images {
   height: 100%;
 }
-
-
